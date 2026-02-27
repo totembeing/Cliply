@@ -1,4 +1,4 @@
-# TrendReel — MVP Blueprint
+# Cliply — MVP Blueprint
 
 > An AI-powered automation tool for content creators that tracks Instagram trends, analyzes raw video clips, and auto-generates reels.
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-**What it does:** TrendReel monitors trending Instagram content, analyzes what's going viral, and uses raw video clips uploaded by the user to auto-edit reels that match trending formats — including clipping, music, captions, and transitions.
+**What it does:** Cliply monitors trending Instagram content, analyzes what's going viral, and uses raw video clips uploaded by the user to auto-edit reels that match trending formats — including clipping, music, captions, and transitions.
 
 **Who it's for:** Content creators and social media entrepreneurs looking to fast-track content creation.
 
@@ -244,7 +244,7 @@ CREATE TABLE uploaded_clips (
 ## 📂 Suggested Project Structure
 
 ```
-trendreel/
+cliply/
 ├── frontend/                  # Next.js app
 │   ├── app/                   # App router pages
 │   │   ├── page.tsx           # Landing page
